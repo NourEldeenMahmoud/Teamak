@@ -2,20 +2,32 @@
   {
     "telegram_id": 1243638148,
     "username": "DevNourEldeen",
-    "name": "نور الدين محمود",
-    "track": "Backend",
-    "bio": "انا نور الدين محمود بحب المكرونه بالبشاميل وبكره عبد الفتاح وعايز تيم لمشروع التخرج يكونوا مبينزلوش وورك سبيسز كتير عشان معييش فلوس",
+    "name": "نور الدين محمود محمد محمد",
+    "track": "Cybersecurity",
+    "bio": "انا نور الدين محمود بحب المكرونه بالبشاميل والنجرسكو والدونتس وبكره عبد الفتاح وعايز تيم لمشروع التخرج يكونوا مبينزلوش وورك سبيسز كتير عشان معييش فلوس",
     "links": [
+      "https://github.com/NourEldeenMahmoud",
       "https://github.com/NourEldeenMahmoud"
     ],
     "contact": "01556335858",
-    "skills": [
-      "c#",
-      "databases",
-      "c++"
-    ],
+    "skills": [],
     "interests": [],
     "created_at": "2026-01-18T01:50:35.729445",
-    "updated_at": "2026-01-18T01:50:35.729445"
+    "updated_at": "2026-01-18T02:13:44.770620"
+  },
+  {
+    "telegram_id": 2068215920,
+    "username": "tokaelalfy",
+    "name": "تقى محمد الالفي",
+    "track": "Frontend",
+    "bio": "Front-end developer في فترة تدريب حاليا \nعملت مشاريع صغيره \nمش احسن حاجه بس بطور من نفسي",
+    "links": [
+      "https://github.com/toka-elalfy"
+    ],
+    "contact": "+201022317280",
+    "skills": [],
+    "interests": [],
+    "created_at": "2026-01-18T01:58:58.808320",
+    "updated_at": "2026-01-18T01:58:58.808320"
   }
 ]
