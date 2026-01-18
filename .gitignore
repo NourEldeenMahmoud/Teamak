@@ -1,0 +1,6 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Keep profiles.json - it's needed for the site
+!public/profiles.json

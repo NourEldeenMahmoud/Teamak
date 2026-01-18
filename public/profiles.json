@@ -1,0 +1,21 @@
+[
+  {
+    "telegram_id": 1243638148,
+    "username": "DevNourEldeen",
+    "name": "نور الدين محمود",
+    "track": "Backend",
+    "bio": "انا نور الدين محمود بحب المكرونه بالبشاميل وبكره عبد الفتاح وعايز تيم لمشروع التخرج يكونوا مبينزلوش وورك سبيسز كتير عشان معييش فلوس",
+    "links": [
+      "https://github.com/NourEldeenMahmoud"
+    ],
+    "contact": "01556335858",
+    "skills": [
+      "c#",
+      "databases",
+      "c++"
+    ],
+    "interests": [],
+    "created_at": "2026-01-18T01:50:35.729445",
+    "updated_at": "2026-01-18T01:50:35.729445"
+  }
+]
